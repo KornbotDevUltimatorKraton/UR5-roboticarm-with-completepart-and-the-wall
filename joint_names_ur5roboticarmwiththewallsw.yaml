@@ -1,0 +1,1 @@
+controller_joint_names: ['Baserotation', 'Uppershoulder', 'Elbow', 'Wristrotation', 'Wrist', 'Handrotation', 'Finger1U', 'Finger1E', 'Finger2', 'Finger2U', 'Finger2E', 'Finger3', 'Finger3U', 'Finger3E', ]
